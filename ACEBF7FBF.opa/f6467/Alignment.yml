@@ -1,0 +1,19 @@
+segment_sources:
+  I840DB842:
+    type: origin_type
+    relation: translation
+    language: en
+  I19C266BE:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  ad1f6b90ac844234a46ef3fbfd4f2634:
+    I840DB842: c8ed1a0f6955408cb06949759157d32c
+    I19C266BE: 350dba2a54aa48f0adf2b586bb59d009
+  1879132f77104f43909b9602d35a4503:
+    I840DB842: 92a747c3125b4f90aec46857095823cf
+    I19C266BE: 2290c23f1e0f440a965a6232a5e57842
+  f8cabd69bb8948e9927a6848f65fb375:
+    I840DB842: 98b6f0e5e72546fc8905f6699ede7b47
+    I19C266BE: 34d9473572c24ad192d628416bf54591
